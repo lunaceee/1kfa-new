@@ -1,10 +1,10 @@
 {
-  "name": "1kfa-site",
-  "version": "0.1.0",
+  "name": "A-Thousand-Faces-of-Adventure",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build; bin/netlify_build.sh",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {

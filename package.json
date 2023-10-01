@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "aos": "3.0.0-beta.6",
-    "autoprefixer": "9.8.6",
+    "autoprefixer": "10.0.0",
     "core-js": "^3.6.5",
-    "postcss": "7.0.35",
+    "postcss": "8.4.31",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@2.0.1",
     "vue": "3.0.4",
     "vue-router": "^4.0.0-0"
